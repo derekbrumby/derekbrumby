@@ -1,17 +1,17 @@
 # Derek Brumby
 
-Senior software engineer building reliable AI-enabled products, EHR integrations, and distributed platform systems.
+Senior software engineer building reliable AI products, integration platforms, and distributed systems.
 
 I work across the product and engineering lifecycle, from ambiguous requirements through architecture, implementation, testing, and production delivery. My strongest work sits where product, UX, and systems meet.
 
-## Selected systems
+## Selected ownership
 
 | Area | Engineering scope |
 | --- | --- |
-| AI-enabled EHR workflows | Shared client and API foundations, varied integration contexts, safe failure behavior, testing, observability, and cross-functional clinical product delivery |
-| Healthcare payments | Event-driven ACH services, banking API integrations, and maintainable full-stack member experiences |
-| Streaming and learning | AWS serverless architecture, video delivery, subscriptions, billing, SQL and NoSQL data systems, and reusable React UI foundations |
-| Learning platforms | Next.js applications with multilingual content, audio playback, accessibility-minded components, APIs, and technical mentorship |
+| AI-enabled EHR workflows | Feature owner and subject-matter expert for shared authentication, a major EHR integration, and patient matching; own documentation, scoping, product relationships, and knowledge transfer |
+| Healthcare platform foundations | Subject-matter expert across a Next.js migration and ACH Banking Service; feature owner for the Member Center design system and owner of new partnership landing experiences |
+| Soul Refiner platform | Fully led product architecture and engineering from day one across streaming, subscriptions, billing, content, cloud systems, and a distributed team |
+| Multiply222 platforms | Fully lead architecture, implementation, code review, technical direction, and mentorship across multilingual learning products |
 
 ## Focus
 
@@ -22,9 +22,16 @@ I work across the product and engineering lifecycle, from ambiguous requirements
 
 ## Public work
 
-- [Portfolio and selected experience](https://www.derekbrumby.com)
+- [Reliable AI-enabled EHR workflows](https://www.derekbrumby.com/work/reliable-ai-ehr-workflows)
+- [Healthcare platform foundations](https://www.derekbrumby.com/work/event-driven-healthcare-payments)
+- [Soul Refiner streaming platform](https://www.derekbrumby.com/work/soul-refiner-platform)
+- [Multiply222 learning platforms](https://www.derekbrumby.com/work/multiply222-learning-platforms)
+- [Engineering reliable AI workflows](https://www.derekbrumby.com/blog/engineering-reliable-ai-workflows)
+
+## Public code
+
+- [ProScripture](https://github.com/Multiply222/PROS)
 - [Web Components](https://github.com/derekbrumby/web-components)
-- [Writing](https://www.derekbrumby.com/blog)
 
 ## What I write about
 
