@@ -1,21 +1,30 @@
 # Derek Brumby
 
-Senior software engineer building AI-enabled healthcare and product platforms with TypeScript, Python, React, and AWS.
+Senior software engineer building reliable AI-enabled products, EHR integrations, and distributed platform systems.
 
-I work across the product and engineering lifecycle, from clarifying ambiguous requirements through architecture, implementation, testing, and delivery. My focus is building dependable software at the intersection of AI, complex integrations, and user-facing product experiences.
+I work across the product and engineering lifecycle, from ambiguous requirements through architecture, implementation, testing, and production delivery. My strongest work sits where product, UX, and systems meet.
+
+## Selected systems
+
+| Area | Engineering scope |
+| --- | --- |
+| AI-enabled EHR workflows | Shared client and API foundations, varied integration contexts, safe failure behavior, testing, observability, and cross-functional clinical product delivery |
+| Healthcare payments | Event-driven ACH services, banking API integrations, and maintainable full-stack member experiences |
+| Streaming and learning | AWS serverless architecture, video delivery, subscriptions, billing, SQL and NoSQL data systems, and reusable React UI foundations |
+| Learning platforms | Next.js applications with multilingual content, audio playback, accessibility-minded components, APIs, and technical mentorship |
 
 ## Focus
 
-- AI-enabled product workflows and reliable system integration
+- Reliable AI-enabled product workflows
 - React, Next.js, TypeScript, Python, Node.js, and AWS
 - Product architecture, design systems, testing, and accessibility
-- Practical technical leadership and cross-functional delivery
+- Technical leadership, mentorship, and cross-functional delivery
 
 ## Public work
 
-- [Portfolio](https://www.derekbrumby.com)
-- [LinkedIn](https://www.linkedin.com/in/derekbrumby/)
+- [Portfolio and selected experience](https://www.derekbrumby.com)
 - [Web Components](https://github.com/derekbrumby/web-components)
+- [Writing](https://www.derekbrumby.com/blog)
 
 ## What I write about
 
