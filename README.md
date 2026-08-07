@@ -31,7 +31,6 @@ I work across the product and engineering lifecycle, from ambiguous requirements
 
 ## Public code
 
-- [ProScripture](https://github.com/Multiply222/PROS)
 - [Web Components](https://github.com/derekbrumby/web-components)
 
 ## What I write about
