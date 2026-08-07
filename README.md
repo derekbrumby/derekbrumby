@@ -1,6 +1,6 @@
 # Derek Brumby
 
-Senior software engineer building reliable AI products, integration platforms, and distributed systems.
+Senior software engineer building product experiences, software platforms, and reliable AI systems with TypeScript, React, Node.js, Python, and AWS.
 
 I work across the product and engineering lifecycle, from ambiguous requirements through architecture, implementation, testing, and production delivery. My strongest work sits where product, UX, and systems meet.
 
@@ -27,6 +27,7 @@ I work across the product and engineering lifecycle, from ambiguous requirements
 - [Soul Refiner streaming platform](https://www.derekbrumby.com/work/soul-refiner-platform)
 - [Multiply222 learning platforms](https://www.derekbrumby.com/work/multiply222-learning-platforms)
 - [Engineering reliable AI workflows](https://www.derekbrumby.com/blog/engineering-reliable-ai-workflows)
+- [Modernizing a frontend platform without stopping product delivery](https://www.derekbrumby.com/blog/modernizing-frontend-platforms)
 
 ## Public code
 
