@@ -31,6 +31,7 @@ I work across the product and engineering lifecycle, from ambiguous requirements
 
 ## Public code
 
+- [Relay](https://github.com/derekbrumby/relay) — Reliable execution for TypeScript AI tasks
 - [Web Components](https://github.com/derekbrumby/web-components)
 
 ## What I write about
